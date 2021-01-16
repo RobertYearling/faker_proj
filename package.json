@@ -1,7 +1,6 @@
 {
   "name": "faker_project",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,15 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "faker": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertYearling/faker_proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobertYearling/faker_proj/issues"
+  },
+  "homepage": "https://github.com/RobertYearling/faker_proj#readme",
+  "description": ""
 }
